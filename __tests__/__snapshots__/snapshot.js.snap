@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+Array [
+  <header>
+    <nav>
+      <a>
+        Home
+      </a>
+      |
+      <a>
+        Contact
+      </a>
+    </nav>
+  </header>,
+  <main>
+    <div
+      className="pages__Container-bumurp-0 kjqZjY"
+    >
+      <h1
+        className="pages__Title-bumurp-1 glEVRL"
+      >
+        Welcome to
+         
+        <a
+          href=""
+          onClick={[Function]}
+        >
+          Kolrs!
+        </a>
+      </h1>
+    </div>
+  </main>,
+  <footer>
+    © 
+    2020
+    , All rights reserved. 
+  </footer>,
+]
+`;
